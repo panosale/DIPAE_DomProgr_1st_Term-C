@@ -9,7 +9,6 @@ main()
     TMHMA : T1
     ERGASTHRIAKH ASKHSH : 5.4
     HMEROMHNIA : 8/11/2022
-    ONOMA : PANAGIOTIS ALEVROPOULOS
     ARITHMOS MHTRWOY : 2022005
     */
     // Dilosi & arxikopoiisi metavliton 

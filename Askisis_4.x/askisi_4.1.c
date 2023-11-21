@@ -6,9 +6,8 @@ main() {
     TMHMA : T1
     ERGASTHRIAKH ASKHSH : 4.1
     HMEROMHNIA : 1/11/2022
-    ONOMA : PANAGIOTIS ALEVROPOULOS
     ARITHMOS MHTRWOY : 2022005
-    */
+   */
 
     int day;
     printf("Give me a number from 1 to 7 : ");
